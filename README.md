@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! Eu sou a Carol e sejam bem-vindos ao meu GitHub!😄 
 
-<!--
-**dornascarol/dornascarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Desenvolvedora Back-end</h2>
+<p>Uma carioca que busca impulsionar uma vida feliz e plena, avançando em direção aos meus objetivos com consciência, constância e equilíbrio.</p>
+<p>Aprimorando os conhecimentos técnicos de Back-end para desenvolver soluções. :books: </p>
+<br>
+<h3>Contatos:</h3>
+<a href="carolinafdornas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a heref="https://www.linkedin.com/in/carolina-dornas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br>
+<h3>Habilidades técnicas:</h3>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://camo.githubusercontent.com/93ae318132d035a8c007ee1cb244f63a02d87cc0051dfa67323f5bfdc6b222d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d353834394245">
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dornascarol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
