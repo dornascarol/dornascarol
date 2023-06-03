@@ -1,10 +1,10 @@
 <div align="center">
   
-  <h1> Olá! Eu sou a Carol e sejam bem-vindos ao meu GitHub 😄 </h1>
+  <h1> Olá! Eu sou a Carol e sejam bem-vindos ao meu GitHub </h1>
   
   <h3> Desenvolvedora Back-end </h3>
-  <p> Uma carioca que busca impulsionar uma vida feliz e plena, avançando em direção aos objetivos com consciência, constância e equilíbrio. </p>
-  <p> Aprimorando os conhecimentos técnicos de Back-end para desenvolver soluções. :books: </p>
+  <p> Uma carioca que busca impulsionar uma vida feliz e plena, avançando em direção aos objetivos com constância e equilíbrio. </p>
+  <p> Aprimorando os conhecimentos técnicos de Back-end para desenvolver soluções. :books: :computer: </p>
   <br>
   
   <h3> Contatos: </h3>
@@ -21,7 +21,8 @@
   <img src="https://camo.githubusercontent.com/93ae318132d035a8c007ee1cb244f63a02d87cc0051dfa67323f5bfdc6b222d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d353834394245"/>
   <br>
   <br>
+  <br>
   
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornascarol&layout=compact)"/>
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornascarol&layout=compact&show_icons=true&theme=buefy"/>
   
 </div>
