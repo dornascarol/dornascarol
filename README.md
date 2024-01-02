@@ -3,10 +3,10 @@
   **Desenvolvedora Back-end**
   
 - 📚 Graduanda em Análise e Desenvolvimento de Sistemas e paralelamente cursos extracurriculares
-- 🌱 Atualmente estou aprimorando minhas habilidades em Node.Js, API e bancos de dados
+- 🌱 Atualmente estou aprimorando minhas habilidades em Node.Js, APIs e bancos de dados
 - 💬 Pergunte-me sobre: JavaScript, Node.Js, MongoDB, PostgreSQL
-- 👩‍💻 Todos os meus projetos estão disponíveis no https://github.com/dornascarol
-- 😄 Pronome: Ela | Dela
+- 👩‍💻 Todos os meus projetos estão disponíveis no GitHub <a href="https://github.com/dornascarol?tab=repositories" target="_blank" > dornascarol </a>
+- 😄 Pronome: Ela/Dela
 - ⚡ Curiosidade: adoro ler e praticar esportes
   
   <br>
@@ -34,7 +34,7 @@
   <br>
   <div align="center">
     
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornascarol&layout=compact&show_icons=true&theme=blue"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornascarol&layout=compact&show_icons=true&theme=blue"/>
   
  
   
