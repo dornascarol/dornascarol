@@ -4,10 +4,10 @@
   
 - 📍 Morando em Rio de Janeiro, Brasil
 - 📚 Graduanda em Análise e Desenvolvimento de Sistemas e paralelamente cursos extracurriculares
-- 🌱 Atualmente estou aprimorando minhas habilidades em Golang, tópicos de computação, inglês instrumental, introdução à lógica de programação
-- 💬 Pergunte-me sobre: JavaScript, Node.Js, Golang, algoritmo
+- 🌱 Atualmente estou aprimorando minhas habilidades em Golang, C, empreendedorismo, governança em tecnologia, sistemas de informação e sistemas operacionais
+- 💬 Pergunte-me sobre: JavaScript, Node.Js, Golang, transição de carreira
 - 👩‍💻 Todos os meus projetos estão disponíveis no GitHub <a href="https://github.com/dornascarol?tab=repositories&q=&type=public&language=&sort=" target="_blank" > dornascarol </a>
-- 🥊 Hobbies: leitura e esportes
+- 🥊 Hobbies: corrida e muay thai
   
   <br>
   <h3> Habilidades técnicas: </h3>
@@ -28,20 +28,20 @@
   <br>
   <h3> Contatos: </h3>
   
-  <a href="mailto:carolinafdornas@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
-   [carolinafdornas@gmail.com](mailto:carolinafdornas@gmail.com)
+  <a href="mailto:carolinafdornas@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+= [carolinafdornas@gmail.com](mailto:carolinafdornas@gmail.com)
 
-  <a href="https://www.linkedin.com/in/carolina-dornas/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-   [Carolina Dornas](https://www.linkedin.com/in/carolina-dornas/)
+  <a href="https://www.linkedin.com/in/carolina-dornas/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+ = [Carolina Dornas](https://www.linkedin.com/in/carolina-dornas/)
 
   <br>
   <div align="center">
     
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornascarol&layout=compact&show_icons=true&theme=blue"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornascarol&layout=compact&show_icons=true&theme=blue"/>
   
  
   
   </div>
 
   <br>
-Obrigada por visitar meu perfil! 🚀
+Obrigada por visitar meu perfil 🚀
